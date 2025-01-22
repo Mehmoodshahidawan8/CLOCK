@@ -11,10 +11,10 @@
 ✅ **Modular and scalable code** for easy customization 🛠️  
 
 ## 📸 Preview  
-![Tube Clock]([your-imlage-ur](https://www.linkedin.com/posts/mehmood-shahid-awan-56018b31a_webdevelopment-javascript-html-activity-7286640354815078400-XTV2?utm_source=share&utm_medium=member_desktop))  
+![Tube Clock]([[your-imlage-ur](https://www.linkedin.com/posts/mehmood-shahid-awan-56018b31a_webdevelopment-javascript-html-activity-7286640354815078400-XTV2?utm_source=share&utm_medium=member_desktop)](https://github.com/Mehmoodshahidawan8/CLOCK/blob/main/tube%20clock2.PNG))  
 
 ## 🚀 Live Demo  
-🔗 [Add your GitHub Pages or deployed link here]  
+🔗 [(https://github.com/Mehmoodshahidawan8/CLOCK)]  
 
 ## 🛠️ Technologies Used  
 - **HTML5** 🏗️  
